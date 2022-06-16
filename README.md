@@ -57,4 +57,7 @@ Para conocer más a fondo sobre el proyecto se puede observar en:
 - Arquitectura: <https://drive.google.com/file/d/1gVseU9EMagMIwThvQoP1cMqXb2m-SikS/view?usp=sharing>
 
  ## Autores.
+ Los autores del proyecto son los estudiantes del equipo #2 de la asignatura de desarrollo de aplicaciones basadas en microservicios del programa de ingeniería de sistemas de la Universidad Francisco de Paula Santander.
+
+[contribuyentes](https://github.com/orgs/INVANSS/people) quienes han participado en este proyecto. 
  
