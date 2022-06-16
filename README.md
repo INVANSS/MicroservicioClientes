@@ -6,7 +6,7 @@ Microservicio clientes de la app INVANSS
 ## Tabla de Contenido
 
 * [Requerimientos :page_facing_up:](#requerimientos)
-* [Microservicios :memo:](#microservicios.)
+* [Microservicios :memo:](#microservicios)
 * [Arquitectura :memo:](#arquitectura)
 * [Herramientas Utilizadas :hammer_and_wrench:](#herramientas-utilizadas)
 * [Estructura :card_index_dividers:](#estructura)
@@ -49,19 +49,19 @@ El backend de los microservicios esta desarrollado usando el framework de python
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 * [Python](https://www.python.org) - Lenguaje de Programación
-* [Django rest frameork](https://www.django-rest-framework.org/img/logo.png) - Lenguaje de Programación
-* [Postgre sql](https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2017/10/postgresql.png?width=1200&enable=upscale) - Base de datos
-* [Firebase](https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png) -Plataforma para el desarrollo de aplicaciones web
-* [React js](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png) - Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario
-* [Docker](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png) -Automatiza el despliegue de aplicaciones dentro de contenedores de software
+* [Django rest frameork](https://www.django-rest-framework.org/) - Lenguaje de Programación
+* [Postgre sql](https://www.postgresql.org/) - Base de datos
+* [Firebase](https://firebase.google.com/?hl=es-419) -Plataforma para el desarrollo de aplicaciones web
+* [React js](https://es.reactjs.org/) - Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario
+* [Docker](https://www.docker.com/) -Automatiza el despliegue de aplicaciones dentro de contenedores de software
 
-<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px> <img 
 
 ## Recursos 
 
 Para conocer más a fondo sobre el proyecto se puede observar en:
 
 - Documentación: <https://docs.google.com/document/d/1TwXwAmDG3DBknNND_Mf3CI7XuUC6uDlv/edit?usp=sharing&ouid=110047220140415679483&rtpof=true&sd=true>
+- Microservicios:<https://drive.google.com/file/d/1FJvJyvs_nNhTdam5cUeC0qyEWpPZoQzh/view?usp=sharing>
 - Arquitectura: <https://drive.google.com/file/d/1gVseU9EMagMIwThvQoP1cMqXb2m-SikS/view?usp=sharing>
 
  ## Autores.
