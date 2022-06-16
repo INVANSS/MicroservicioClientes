@@ -6,6 +6,7 @@ Microservicio clientes de la app INVANSS
 ## Tabla de Contenido
 
 * [Requerimientos :page_facing_up:](#requerimientos)
+* [Microservicios :memo:](#microservicios.)
 * [Arquitectura :memo:](#arquitectura)
 * [Herramientas Utilizadas :hammer_and_wrench:](#herramientas-utilizadas)
 * [Estructura :card_index_dividers:](#estructura)
@@ -28,10 +29,14 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 * RF9- Inicio de sesión
 * RF10- Cambiar contraseña
 
+## Microservicios.
+A continuación se encuentran todos los microservicios a implementar durante el desarrollo del proyecto.
+
+![Image](https://github.com/INVANSS/MicroservicioClientes/blob/main/img/microservicios.jpg)
 
 ## Arquitectura.
 
-![Image](https://drive.google.com/file/d/10mrkjuRFIYm5kypq9l-dAOSzx_iBMbnA/view?usp=sharing)
+![Image](https://github.com/INVANSS/MicroservicioClientes/blob/main/img/arquitectura.png)
 
 Nuestra arquitectura  se basa en que cada uno de los microservicio tenga su propio frontend para consumir lo cual hará a través del api rest , la cual es  una interfaz de programación de aplicaciones (API o API web) que se ajusta a los límites de la arquitectura REST y permite la interacción con los servicios web.
  Para el front end esta arquitectura utilizara react js el cual te ayuda a crear interfaces de usuario interactivas de forma sencilla.
@@ -49,6 +54,9 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 * [Firebase](https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png) -Plataforma para el desarrollo de aplicaciones web
 * [React js](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png) - Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario
 * [Docker](https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png) -Automatiza el despliegue de aplicaciones dentro de contenedores de software
+
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px> <img 
+
 ## Recursos 
 
 Para conocer más a fondo sobre el proyecto se puede observar en:
